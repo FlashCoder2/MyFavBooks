@@ -1,0 +1,10 @@
+.book {
+    display: flexbox;
+    justify-content: space-evenly;
+    background-color:#7ceb21ce;
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color:#d68425;
+    text-align: center;
+}
